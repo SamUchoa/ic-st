@@ -1,0 +1,18 @@
+season_num;int;The season that the episode aired.
+episode_num;int;The episode number within the season.
+aired_date;date (YYYY-mm-dd);The date that this episode aired on television.
+cnt_kirk_hookups;int;A count for how many times Captain Kirk had a romantic encounter(s), kissing, intimate hugging.
+cnt_downed_redshirts;int;A count of how many crew members wearing Red uniforms succumbed in the line of duty.
+bool_aliens_almost_took_over_planet;bool;Did an alien species (nearly) take over a planet?
+bool_aliens_almost_took_over_enterprise;bool;Did an alien species (nearly) take over the U.S.S. Enterprise?
+cnt_vulcan_nerve_pinch;int;A count of how many times a Vulcan Nerve/Neck Pinch was applied.
+cnt_warp_speed_orders;int;A count of how many times Warp Speed was commanded of the ship.
+highest_warp_speed_issued;int;The highest level of Warp Speed commanded of the U.S.S. Enterprise.
+bool_hand_phasers_fired;bool;Were hand phasers fired during the course of the episode?
+bool_ship_phasers_fired;bool;Were the Enterprise's phasers fired during the course of the episode?
+bool_ship_photon_torpedos_fired;bool;Did the Enterprise fire torpedoes during the course of the episode?
+cnt_transporter_pax;int;"A count of how many passengers travelled by means of the Transporter (not implied, or off camera transportation;  each transport is counted)."
+cnt_damn_it_jim_quote;int;"A count of how many times Doctor McCoy says the quote ""Damn it Jim, I'm just a Doctor!""."
+cnt_im_givin_her_all_shes_got_quote;int;"A count of how many times Engineer ""Scotty"" Scott says the quote ""I'm giving her all she's got!""."
+cnt_highly_illogical_quote;int;"A count of how many times Spock says the quote ""...highly/very illogical""."
+bool_enterprise_saved_the_day;bool;Did the U.S.S. Enterprise save the day?
